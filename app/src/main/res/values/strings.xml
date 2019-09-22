@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM+Repository+Coroutines</string>
+    <string name="image">image</string>
+    <string name="username">Username</string>
+    <string name="go_to_gitactivity">Go to GitActivity</string>
+    <string name="enter">Enter</string>
+</resources>
